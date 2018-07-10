@@ -1,6 +1,6 @@
 const clientID = '2d3d2d26799d470f8a7e431468cab41b';
-//const redirectURL = 'http://localhost:3000/';
-const redirectURL = 'https://efficient-moon.surge.sh/';
+const redirectURL = 'http://localhost:3000/';
+//const redirectURL = 'https://efficient-moon.surge.sh/';
 
 let accessToken;
 const Spotify = {
